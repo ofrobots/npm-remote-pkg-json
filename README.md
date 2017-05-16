@@ -1,4 +1,4 @@
-# Given package spec, fetch remove package.json
+# Given package spec, fetch remote package.json
 
 ```js
 const remotePackageJson = require('npm-remote-pkg-json');
