@@ -15,5 +15,12 @@
     "LICENSE",
     "src",
     "README.md"
-  ]
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "nock": "^9.0.13"
+  }
 }
